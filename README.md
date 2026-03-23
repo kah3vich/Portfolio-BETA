@@ -7,7 +7,7 @@
 
 ## Directories
 
-- [Test](https://kah3vich.github.io/Portfolio)
+- [Test](https://kah3vich.github.io/Portfolio-BETA)
 
 ## Materials
 
