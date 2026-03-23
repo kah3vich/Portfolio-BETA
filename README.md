@@ -1,7 +1,14 @@
-# [beta] Protfolio
-### This work was a test version for a future project - PORTFOLIO
-PS: the work was completed in June 2020
+<div align="center">
+	<h1>Portfolio-BETA</h1>
+	<p>
+		This work was a test version for a future portfolio.
+	</p>
+</div>
 
-<br />
+## Directories
 
-### To see the work, click on one eighth - [⅛](https://kah3vich.github.io/Portfolio/)
+- [Test](https://kah3vich.github.io/Portfolio)
+
+## Materials
+
+- [LICENSE](.github/LICENSE)
